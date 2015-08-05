@@ -11,6 +11,11 @@ Usage
 
   $ osx_replace_readline.py python
 
+I use `pythonz <https://github.com/saghul/pythonz/>`_. Run this once per
+python::
+
+    $ osx_replace_readline.py $PYTHONZ/pythons/CPython-x.y.z/bin/python
+
 
 Requirements
 ------------
